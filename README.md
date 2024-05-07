@@ -1,5 +1,7 @@
 # Sign-Language-Detection
 🤟 Sign Language Detection: A machine learning project detecting and interpreting sign language gestures for improved accessibility.
+
+
 Project Deployment
  1. Data Collection (datacollection.py):
   RunthePython script datacollection.py to initiate data collection.
